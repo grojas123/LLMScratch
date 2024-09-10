@@ -1,0 +1,4 @@
+jupyterlab==4.2.5
+tiktoken
+torch
+numpy
